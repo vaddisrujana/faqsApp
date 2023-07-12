@@ -1,0 +1,27 @@
+.list {
+  list-style-type: none;
+}
+.back {
+  border-color: #d7dae6;
+  border-style: solid;
+  border-radius: 15px;
+  border-width: 1px;
+  padding: 20px;
+}
+.back1 {
+  display: flex;
+  justify-content: space-between;
+}
+.button {
+  background-color: transparent;
+  border-width: 0;
+}
+.head {
+  color: #52606d;
+}
+.para {
+  color: #9aa5b1;
+}
+.notDisplay {
+  display: none;
+}
